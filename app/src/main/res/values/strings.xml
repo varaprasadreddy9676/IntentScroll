@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IntentScrollview</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="first">
+    "Little finger \n\n"
+        "Lord peter Baelish\n\n"
+        "Chaos isn't a pit. \n\n
+        Chaos is a ladder\n\n.Many who try to climb it fail and never get to try again.\n\n
+        The fall breaks them. And some, are given a chance to climb.\n\n
+        They refuse, they cling to the realm, or the gods, or love.\n\n
+        Illusions. Only the ladder is real. The climb is all there\n\n"
+    </string>
+    <string name="second">
+        “Always keep your foes confused.\n\n
+        If they are never certain who you are or what you want, \n\n
+        they cannot know what you are like to do next. \n\n
+        Sometimes the best way to baffle them is to make moves that have no purpose, or even seem to work against you. \n\n
+        Remember that, Sansa, when you come to play the game.”
+    </string>
+    <string name="third">
+        "You know what I learnt losing that duel? \n\n
+        I learnt that I'll never win. Not that way.\n\n
+        That's their game, their rules. I'm not going to fight them, \n\n
+        I'm going to f**k them.\n\n
+        That's what I know, that's what I am, and only by admitting what we are can we get what we want."
+    </string>
+    <string name="fourth">
+        "abhi prasad"
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
